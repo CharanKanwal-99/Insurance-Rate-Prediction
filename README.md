@@ -1,0 +1,2 @@
+# Insurance-Rate-Prediction
+The project leverages machine learning for insurance rate prediction using a individual's financial information like delinquency, account balance,  . The steps involved in the project are EDA, outlier removal, imputation,scaling,encoding and model training and evaluation. Several models have been trained in the training phase, the feature importance for the corresponding models have been studied and using the appropriate metrics, the best performing model has been selected
